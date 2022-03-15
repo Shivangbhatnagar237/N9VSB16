@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url(./font/apercu-condensed-bold-pro_0.ttf);
+    /* font-weight: ; */
+}
+
 *{
     margin: 0;
     padding: 0;
