@@ -289,16 +289,16 @@ html, body {
     font-size: 225px;
     line-height: 195px;
     font-weight: 700;
-    /* vertical-align: baseline; */
     color: black;
     text-align: left;
-    width: 77%;
+    width: 95%;
     letter-spacing: normal;
     /* background-color: red; */
+    text-align: center;
 }
 
 #mctr h1:nth-child(1) {
-    margin: 35px 0px 0px 100px;
+    margin: 0.2em 1em 0 0;
 }
 
 #container {
